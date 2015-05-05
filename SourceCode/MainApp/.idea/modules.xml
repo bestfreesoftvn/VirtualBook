@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Cross Cutting/Common/Common.iml" filepath="$PROJECT_DIR$/../Cross Cutting/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommonAssets/CommonAssets.iml" filepath="$PROJECT_DIR$/../CommonAssets/CommonAssets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Cross Cutting/Configuration/Configuration.iml" filepath="$PROJECT_DIR$/../Cross Cutting/Configuration/Configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Cross Cutting/Utilities/Utilities.iml" filepath="$PROJECT_DIR$/../Cross Cutting/Utilities/Utilities.iml" />
       <module fileurl="file://$PROJECT_DIR$/VirtualBook.iml" filepath="$PROJECT_DIR$/VirtualBook.iml" />
     </modules>
   </component>
